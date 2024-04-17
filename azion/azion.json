@@ -1,0 +1,37 @@
+{
+  "name": "testereuniao",
+  "bucket": "testereuniao",
+  "template": "angular",
+  "mode": "deliver",
+  "env": "production",
+  "prefix": "20240417205327",
+  "function": {
+    "id": 45687,
+    "name": "__DEFAULT__",
+    "file": ".edge/worker.js",
+    "args": "./azion/args.json",
+    "instance-id": 49995,
+    "instance-name": "__DEFAULT__"
+  },
+  "application": {
+    "id": 1713382771,
+    "name": "__DEFAULT__"
+  },
+  "domain": {
+    "id": 1713380366,
+    "name": "__DEFAULT__"
+  },
+  "rt-purge": {
+    "purge_on_publish": true
+  },
+  "origin": {
+    "single-origin-id": 0,
+    "storage-origin-id": 351150,
+    "storage-origin-key": "da7f092a-670b-446b-ae31-85d42b4d46c5",
+    "name": "testereuniao_object",
+    "address": null
+  },
+  "rules-engine": {
+    "created": true
+  }
+}

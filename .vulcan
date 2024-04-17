@@ -1,0 +1,6 @@
+builder=webpack
+entry=./main.js
+preset=angular
+mode=deliver
+useNodePolyfills=false
+useOwnWorker=false
